@@ -16,7 +16,7 @@
             path: "parker.PNG",
         },
         {
-            name: "Chapel, St Thomas's Buildings",
+            name: "Chapel, Sir Thomas's Buildings",
             address: "St Thomas Street",
             coordinates: { lat: 53.408282077930316, lng: -2.9866895554547144 },
             datesActive: "June 1825 - c. September 1827",
