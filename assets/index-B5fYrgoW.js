@@ -2411,4 +2411,4 @@ ${c.vertexSource}`,this.forceManualRenderingForInstanceIDShaders&&(L=L.replaceAl
                   <p>${s.address}</p>
                   <p>${s.datesActive}</p>
                   <img src="${s.path}" alt="${s.image}">
-                `)).addTo(De)})}),()=>De.remove())),m0();var ti=Aw();yw(ti,s=>Bs(He,s),()=>Vs(He)),f0(Q,ti),n_()}var Pw=p0('<p class="svelte-i0zc7g"></p> <!>',1);function zw(Q,Me){r_(Me,!1);const De=new Date().getFullYear();m0();var He=Pw(),at=Bb(He);at.textContent=`© ${De??""} Isabel Robinson`;var rt=Nb(at,2);Cw(rt,{}),f0(Q,He),n_()}mw(zw,{target:document.getElementById("app")});
+                `)).addTo(De)})}),()=>De.remove())),m0();var ti=Aw();yw(ti,s=>Bs(He,s),()=>Vs(He)),f0(Q,ti),n_()}var Pw=p0('<p class="svelte-11e4bld"></p> <!>',1);function zw(Q,Me){r_(Me,!1);const De=new Date().getFullYear();m0();var He=Pw(),at=Bb(He);at.textContent=`© ${De??""} Isabel Robinson`;var rt=Nb(at,2);Cw(rt,{}),f0(Q,He),n_()}mw(zw,{target:document.getElementById("app")});
